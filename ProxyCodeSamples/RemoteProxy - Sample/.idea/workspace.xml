@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8aeb042d-ac6a-4cd2-bd0c-c86f60b41191" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../GUI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI/GUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI/src/CircleGUI.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GUI/src/CircleGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProtectionTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProtectionTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProtectionTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProtectionTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProtectionTest/ProtectionTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProtectionTest/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProtectionTest/src/PersonImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RemoteHelloTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RemoteHelloTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RemoteHelloTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RemoteHelloTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RemoteHelloTest/RemoteHelloTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RemoteHelloTest/src/HelloRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RemoteHelloTest/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/RemoteClient/Remote/HelloRemoteImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Remote/HelloRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Remote/HelloRemoteImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Remote/SayHelloTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/src/OtherClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test1/test1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HotOrNot - Protection Proxy/out/production/HotOrNot/MatchMakingTestDrive.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HotOrNot - Protection Proxy/out/production/HotOrNot/MatchMakingTestDrive.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HotOrNot - Protection Proxy/src/MatchMakingTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HotOrNot - Protection Proxy/src/MatchMakingTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RemoteClient/Client/MyRemoteClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RemoteClient/Server/MyRemote.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RemoteClient/Server/MyRemoteImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client/MyRemoteClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/MyRemote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Server/MyRemoteImpl.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Ii96ty82kAVOsB54yGwlzxJY8Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/JavaOOP_Hustle/HotOrNot - Protection Proxy"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aeb042d-ac6a-4cd2-bd0c-c86f60b41191" name="Changes" comment="" />
+      <created>1670653366384</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670653366384</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
